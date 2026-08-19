@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -16,23 +16,23 @@
 Shakes/Cold Coffee
     <br>
     <h3>
-<p style="word-spacing: 190px; text-align: Center;">Cold_Coffee  ₹60</p>
-  <p style="word-spacing: 170px; text-align: Center;">Badam_Shake    ₹80</p>
-      <p style="word-spacing: 130px; text-align: Center;">Thick_Cold_Coffee ₹90</p>   
-      <p style="word-spacing: 90px; text-align: Center;">Chocolate_Cold_Coffee ₹90</p>
-      <p style="word-spacing: 130px; text-align: Center;">Vanilla_MilkShake ₹90</p>
-      <p style="word-spacing: 140px; text-align: Center;">Dry_Fruit_Shake ₹100</p>
-      <p style="word-spacing: 70px; text-align: Center;">Butterscotch_Milkshake ₹100</p>
-      <p style="word-spacing: 122px; text-align: Center;">Strawberry_Shake ₹110</p>
-      <p style="word-spacing: 170px; text-align: Center;">Mango_Shake ₹115</p>
-      <p style="word-spacing: 20px; text-align: Center;">Thick_Chocolate_Cold_Coffee  ₹130</p>
-       <p style="word-spacing: 200px; text-align: Center;">Fig_Shake  ₹150</p>
-       <p style="word-spacing: 165px; text-align: Center;">Kit_Kat_Shake      ₹150</p>
-      <p style="word-spacing: 140px; text-align: Center;">Chocolate_Shake  ₹150</p>
-      <p style="word-spacing: 185px; text-align: Center;">Oreo_Shake    ₹150</p>
-      <p style="word-spacing: 150px; text-align: Center;">Mix_Milkshake        ₹150</p>
-      <p style="word-spacing: 150px; text-align: Center;">Brownie_Shake    ₹160</p>
-        <p style="word-spacing: 80px; text-align: Center;">Ferrero_Rocher_Shake    ₹200</p>
+<p style="word-spacing: 190px; text-align: Center; color: white;">Cold_Coffee  ₹60</p>
+  <p style="word-spacing: 170px; text-align: Center; color: white;">Badam_Shake    ₹80</p>
+      <p style="word-spacing: 130px; text-align: Center; color: white;">Thick_Cold_Coffee ₹90</p>   
+      <p style="word-spacing: 90px; text-align: Center; color: white;">Chocolate_Cold_Coffee ₹90</p>
+      <p style="word-spacing: 130px; text-align: Center; color: white;">Vanilla_MilkShake ₹90</p>
+      <p style="word-spacing: 140px; text-align: Center; color: white;">Dry_Fruit_Shake ₹100</p>
+      <p style="word-spacing: 70px; text-align: Center; color: white;">Butterscotch_Milkshake ₹100</p>
+      <p style="word-spacing: 122px; text-align: Center; color: white;">Strawberry_Shake ₹110</p>
+      <p style="word-spacing: 170px; text-align: Center; color: white;">Mango_Shake ₹115</p>
+      <p style="word-spacing: 20px; text-align: Center; color: white;">Thick_Chocolate_Cold_Coffee  ₹130</p>
+       <p style="word-spacing: 200px; text-align: Center; color: white;">Fig_Shake  ₹150</p>
+       <p style="word-spacing: 165px; text-align: Center; color: white;">Kit_Kat_Shake      ₹150</p>
+      <p style="word-spacing: 140px; text-align: Center; color: white;">Chocolate_Shake  ₹150</p>
+      <p style="word-spacing: 185px; text-align: Center; color: white;">Oreo_Shake    ₹150</p>
+      <p style="word-spacing: 150px; text-align: Center; color: white;">Mix_Milkshake        ₹150</p>
+      <p style="word-spacing: 150px; text-align: Center; color: white;">Brownie_Shake    ₹160</p>
+        <p style="word-spacing: 80px; text-align: Center; color: white;">Ferrero_Rocher_Shake    ₹200</p>
       
       
  </h3>
